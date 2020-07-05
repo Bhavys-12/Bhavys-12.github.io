@@ -1,0 +1,78 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: "Toha"
+theme: "toha"
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Enable Google Analytics
+googleAnalytics: UA-xxxxxxxx
+
+# Enable Disqus forum
+disqusShortname: does-not-exist
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # copyright
+  copyright: © 2020 Copyright.
+
+  # background image of the landing page
+  background: "images/background.jpg"
+
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/hossainemruz/toha-example-site
+
+  # specify whether you want to write blog post or not
+  enableBlogPost: true
+
+  # specify the list of custom menus that you want to show in the top navbar.
+  # they will be separated by a divider from the main menus.
+  customMenus:
+  - name: Notes
+    url: https://hossainnotes.netlify.app/docs/example/
+
+  # some information about you
+  author:
+    name: "Bhavya Shah"
+    nickname: "Bhavya Shah"
+    image: "images/avatar.png"
+    # give your some contact information. they will be used in the footer
+    contactInfo:
+      email: "bhavys12@gmail.com"
+      phone: "8469856137"
+    # a summary of what you do
+    summary:
+    - I am a Developer
+    - I work with Go
+    - I love to work with some fun projects
+
+# Menus of the home page
+menus:
+- name: Home
+  url: "#home"
+  weight: 1
+- name: About
+  url: "#about"
+  weight: 2
+- name: Skills
+  url: "#skills"
+  weight: 3
+- name: Experiences
+  url: "#experiences"
+  weight: 4
+- name: Projects
+  url: "#projects"
+  weight: 5
+- name: Recent Posts
+  url: "#recent-posts"
+  weight: 6
+- name: Achievements
+  url: "#achievements"
+  weight: 7
