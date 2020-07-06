@@ -6,44 +6,40 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Software Engineer
+designation: Business Development Executive
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Creole Studios
+  url: "https://www.creolestudios.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate Business Developer. I have experience working woth Email Marketing, Bidding on online portals such as Upwork and generating leads through linkedin. My skills helps organization to attain growth in the Business.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "bhavys12@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/Bhavys-12"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/bhavya-shah-3901091a5/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.twitter.com/bhavys12"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/Bhavys12"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

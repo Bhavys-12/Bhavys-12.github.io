@@ -9,11 +9,11 @@ section:
 
 # Your experiences
 experiences:
-- designation: Software Engineer
+- designation: Business Development Executive
   company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Creole Studios
+    url: "https:www.creolestudios.com"
+    location: Ahmedabad Branch
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   start: Nov 2017
