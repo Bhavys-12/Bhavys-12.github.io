@@ -1,7 +1,8 @@
-baseURL: http://example.org/
+baseURL: "https://Bhavys-12.github.io"
 languageCode: en-us
 title: "Toha"
 theme: "toha"
+publishDir : "docs"
 
 # Allow raw html in markdown file
 markup:
